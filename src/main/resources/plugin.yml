@@ -1,0 +1,4 @@
+name: Cmd_mgr
+version: '${project.version}'
+main: com.ruserious99.cmd_mgr.Cmd_mgr
+api-version: 1.17
